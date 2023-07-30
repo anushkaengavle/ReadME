@@ -1,10 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anushka Engavle
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
+                My name is Anushka Engavle
 =======================================================================================================================================
 
 A Web Developer, Designer and Coder
 -----------------------------------
 
 🚀 Passionate IT Student | Code Enthusiast | Web Developer | Java, Python, C/C++, HTML, CSS, JS, React 🎯 
+
+
+* 🌍  I'm based in Mumbai
+* 🖥️  See my portfolio at [My Profile](http://anushka-portfolio123.netlify.app/)
+* ✉️  You can contact me at [Anushka.Engavle@gmail.com](mailto:Anushka.Engavle@gmail.com)
+* 🧠  I'm Currently Enhancing my Java skills
+
 
 🤚A final year IT student with a love for coding and a knack for solving complex problems. My journey in the world of programming has led me to master several languages, including Java, Python, C, and C++. Additionally, I have honed my skills as a web developer, proficient in crafting elegant and responsive user interfaces using HTML, CSS, and JavaScript. I'm always on the lookout for new opportunities to learn and grow. 
 
@@ -16,10 +24,6 @@ A Web Developer, Designer and Coder
 
 📫 Feel free to connect with me or reach out for collaborations on exciting projects. Let's build something awesome together!
 
-* 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [My Profile](http://anushka-portfolio123.netlify.app/)
-* ✉️  You can contact me at [Anushka.Engavle@gmail.com](mailto:Anushka.Engavle@gmail.com)
-* 🧠  I'm Currently Enhancing my Java skills
 
 ### Skills
 
