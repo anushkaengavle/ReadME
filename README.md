@@ -4,12 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Web Developer, Designer and Coder
 -----------------------------------
 
-🚀 Passionate IT Student | Code Enthusiast | Web Developer | Java, Python, C/C++, HTML, CSS, JS, React 🎯 🤚A final year IT student with a love for coding and a knack for solving complex problems. My journey in the world of programming has led me to master several languages, including Java, Python, C, and C++. Additionally, I have honed my skills as a web developer, proficient in crafting elegant and responsive user interfaces using HTML, CSS, and JavaScript. I'm always on the lookout for new opportunities to learn and grow. 🚀 As a dedicated coder, I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest trends and technologies in the tech world. I thrive in collaborative environments and am always eager to learn from and contribute to the open-source community. 💡 My passion for coding drives me to explore innovative solutions to real-world challenges. I believe in the power of technology to make a positive impact on society, and I am committed to creating meaningful and efficient software solutions that can make a difference. 🌱 In my free time, you'll find me exploring new coding projects, experimenting with different programming paradigms, and contributing to open-source initiatives. I'm also a firm believer in continuous learning and spend time studying new algorithms and data structures to improve my problem-solving skills. 📫 Feel free to connect with me or reach out for collaborations on exciting projects. Let's build something awesome together!
+🚀 Passionate IT Student | Code Enthusiast | Web Developer | Java, Python, C/C++, HTML, CSS, JS, React 🎯 
+
+🤚A final year IT student with a love for coding and a knack for solving complex problems. My journey in the world of programming has led me to master several languages, including Java, Python, C, and C++. Additionally, I have honed my skills as a web developer, proficient in crafting elegant and responsive user interfaces using HTML, CSS, and JavaScript. I'm always on the lookout for new opportunities to learn and grow. 
+
+🚀 As a dedicated coder, I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest trends and technologies in the tech world. I thrive in collaborative environments and am always eager to learn from and contribute to the open-source community. 
+
+💡 My passion for coding drives me to explore innovative solutions to real-world challenges. I believe in the power of technology to make a positive impact on society, and I am committed to creating meaningful and efficient software solutions that can make a difference. 
+
+🌱 In my free time, you'll find me exploring new coding projects, experimenting with different programming paradigms, and contributing to open-source initiatives. I'm also a firm believer in continuous learning and spend time studying new algorithms and data structures to improve my problem-solving skills. 
+
+📫 Feel free to connect with me or reach out for collaborations on exciting projects. Let's build something awesome together!
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [My Profile](http://anushka-portfolio123.netlify.app/)
 * ✉️  You can contact me at [Anushka.Engavle@gmail.com](mailto:Anushka.Engavle@gmail.com)
-* 🧠  I'm learning Enhancing my Java skills
+* 🧠  I'm Currently Enhancing my Java skills
 
 ### Skills
 
